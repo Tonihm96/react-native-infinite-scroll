@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-list-pagination",
+    "slug": "react-native-list-pagination",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
